@@ -1,0 +1,1 @@
+<view><view><button type="primary" data-event-opts="{{[['tap',[['requset',['$event']]]]]}}" bindtap="__e">发送请求</button></view><view><button type="primary" data-event-opts="{{[['tap',[['add',['$event']]]]]}}" bindtap="__e">添加拦截器请求</button></view><view><button type="warn" data-event-opts="{{[['tap',[['remove',['$event']]]]]}}" bindtap="__e">删除拦截器请求</button></view></view>
